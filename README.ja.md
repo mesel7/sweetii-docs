@@ -86,7 +86,7 @@
 マッチングが成立すると**チャットルームが自動生成**され、リアルタイムでチャットが可能です。  
 また、「クイック通知」機能を使って、相手に**SMSで通知を送信**することもできます。  
 <p>
-  <img src="https://github.com/user-attachments/assets/996da398-9a3b-4d3c-81b0-92390d11cb7b" width="23.5%"/>
+  <img src="https://github.com/user-attachments/assets/0a60b509-3727-4680-9be5-d2e31fc7a4e7" width="23.5%"/>
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ae19c284-ffb8-4a08-9644-f034f0d6f16a" width="23.5%"/>
   &nbsp;&nbsp;
