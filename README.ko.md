@@ -85,7 +85,7 @@ Vanilla JS로 구현된 웹 앱이며, **Firebase를 활용한 인증, Database 
 ### 💬 실시간 채팅 및 알림
 매칭이 성사되면 채팅방이 자동 생성되며, 실시간 채팅이 가능합니다. 또한, 쿡 찌르기 기능을 통해 상대방에게 SMS 알림을 보낼 수 있습니다.
 <p>
-  <img src="https://github.com/user-attachments/assets/996da398-9a3b-4d3c-81b0-92390d11cb7b" width="23.5%"/>
+  <img src="https://github.com/user-attachments/assets/0a60b509-3727-4680-9be5-d2e31fc7a4e7" width="23.5%"/>
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ae19c284-ffb8-4a08-9644-f034f0d6f16a" width="23.5%"/>
   &nbsp;&nbsp;
